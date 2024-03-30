@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FlexiDreamer：Single Image-to-3D Generation with FlexiCubes
 
 [paper](https://arxiv.org) |[project page](https://flexidreamer.github.io/)
@@ -12,7 +11,7 @@
 </p>
 <p align="left"><sup>1</sup>University of Chinese Academy of Sciences &ensp;<sup>2</sup>Tsinghua University &ensp;<sup>3</sup>Xidian University &ensp; <sup>4</sup>ShengShu&ensp;
 
-<p align="center"> Our Code will be released soon...🏗️🚧🔨</p>
+<p align="center"> Our Code will be released soon... 🏗️🚧🔨</p>
 
 
 
@@ -27,6 +26,4 @@
 ![compare.png](./assets/compare.png)
 
 ## BibTex
-=======
-# FlexiDreamer
->>>>>>> 8617e2218918c99cd0c13aca7f66c0ee3b0c44f2
+
