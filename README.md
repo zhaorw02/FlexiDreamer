@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlexiDreamer：Single Image-to-3D Generation with FlexiCubes
 
 [paper](https://arxiv.org) |[project page](https://flexidreamer.github.io/)
@@ -26,3 +27,6 @@
 ![compare.png](./assets/compare.png)
 
 ## BibTex
+=======
+# FlexiDreamer
+>>>>>>> 8617e2218918c99cd0c13aca7f66c0ee3b0c44f2
