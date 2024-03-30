@@ -1,6 +1,6 @@
 # FlexiDreamer：Single Image-to-3D Generation with FlexiCubes
 
-[paper](https://) |[project page](https://flexidreamer.github.io/)
+[paper](https://arxiv.org) |[project page](https://flexidreamer.github.io/)
 
 <p align="left">
     Ruowen Zhao<sup>1,4</sup>, 
