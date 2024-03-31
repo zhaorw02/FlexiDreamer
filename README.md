@@ -1,9 +1,8 @@
 # FlexiDreamer：Single Image-to-3D Generation with FlexiCubes
 
 <p align="center">
-    <a href="https://arxiv.org">paper</a> | <a href="https://flexidreamer.github.io/">project page</a>
+     <span style="font-size: 20px;"><a href="https://arxiv.org">Paper</a></span> | <span style="font-size: 20px;"><a href="https://flexidreamer.github.io/">Project Page</a></span>
 </p>
-
 
 <p align="center">
     Ruowen Zhao<sup>1,4</sup>, 
@@ -15,8 +14,6 @@
 <p align="center"><sup>1</sup>University of Chinese Academy of Sciences,&ensp;<sup>2</sup>Tsinghua University,&ensp;<sup>3</sup>Xidian University,&ensp; <sup>4</sup>ShengShu&ensp;
 
 <p align="center"> Our Code will be released soon... 🏗️🚧🔨</p>
-
-
 
 ## Abstract
 
