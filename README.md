@@ -1,7 +1,7 @@
 # FlexiDreamer：Single Image-to-3D Generation with FlexiCubes
 
 <p align="center">
-     <span style="font-size: 30px;"><a href="https://arxiv.org">Paper</a></span> | <span style="font-size: 30px;"><a href="https://flexidreamer.github.io/">Project Page</a></span>
+     <span style="font-size: 30px;"><a href="https://arxiv.org/abs/2404.00987">Paper</a></span> | <span style="font-size: 30px;"><a href="https://flexidreamer.github.io/">Project Page</a></span>
 </p>
 
 <p align="center">
@@ -27,4 +27,14 @@
 ![compare.png](./assets/compare.png)
 
 ## BibTex
+```bibtex
+@misc{zhao2024flexidreamer,
+      title={FlexiDreamer: Single Image-to-3D Generation with FlexiCubes}, 
+      author={Ruowen Zhao and Zhengyi Wang and Yikai Wang and Zihan Zhou and Jun Zhu},
+      year={2024},
+      eprint={2404.00987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
