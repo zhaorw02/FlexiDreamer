@@ -12,9 +12,7 @@
     <a href="https://ml.cs.tsinghua.edu.cn/~jun/index.shtml">Jun Zhu</a><sup>2,4</sup>
 </p>
 <p align="center"><sup>1</sup>University of Chinese Academy of Sciences,&ensp;<sup>2</sup>Tsinghua University,&ensp;<sup>3</sup>Xidian University,&ensp; <sup>4</sup>ShengShu&ensp;
-
-
-<p align="center"> Our Code will be released soon... 🏗️🚧🔨</p>
+<p align="center"> <b>Our Code will be released soon...</b> 🏗️🚧🔨</p>
 
 ## Abstract
 
@@ -22,19 +20,15 @@
 
 ![first.png](./assets/first.png)
 
+## Method
+
+FlexiDreamer is an end-to-end framework for high-quality 3D generation from a reference image. In each optimization step, we estimate the signed distance field of a bounded space and utilize FlexiCubes to derive an explicit mesh geometry from it. Then texture is applied to the mesh surface by a texture neural network. The entire framework is trained end-to-end on generated images with reconstruction losses.
+
+![pipeline.png](./assets/pipeline.png)
+
 ## Comparisons
 
 ![compare.png](./assets/compare.png)
-
-## Results
-
-<p align="center" width="100%">
-  <video style="width: 100%;" poster="" id="more_results" autoplay muted loop playsinline height="100%">
-        <source src="./assets/more_results.mp4" type="video/mp4">
-      </video>
-</p>
-
-
 
 ## BibTex
 
