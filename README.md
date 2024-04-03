@@ -26,7 +26,18 @@
 
 ![compare.png](./assets/compare.png)
 
+## Results
+
+<p align="center" width="100%">
+  <video style="width: 100%;" poster="" id="more_results" autoplay muted loop playsinline height="100%">
+        <source src="./assets/more_results.mp4" type="video/mp4">
+      </video>
+</p>
+
+
+
 ## BibTex
+
 ```bibtex
 @misc{zhao2024flexidreamer,
       title={FlexiDreamer: Single Image-to-3D Generation with FlexiCubes}, 
