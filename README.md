@@ -30,7 +30,9 @@ FlexiDreamer is an end-to-end framework for high-quality 3D generation from a re
 
 ![compare.png](./assets/compare.png)
 
-## BibTex
+## Citation
+
+If you find FlexiDreamer is helpful, please cite our report:
 
 ```bibtex
 @misc{zhao2024flexidreamer,
